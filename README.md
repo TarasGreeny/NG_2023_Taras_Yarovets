@@ -1,0 +1,1 @@
+# NG_2023_Taras_Yarovets
