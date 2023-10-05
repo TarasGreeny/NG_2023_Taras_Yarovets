@@ -1,2 +1,2 @@
-print ("Тарас")
-print ("Яровець")
+print ("Taras")
+print ("Yarovets")
