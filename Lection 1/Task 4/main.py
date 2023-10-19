@@ -5,12 +5,12 @@ print ("Select transfer method: ")
 c= input()
 match c:
     case "+":
-        print ("Your number is {}".format(a+b))
+        print ("Your answer when adding numbers: {}".format(a+b))
     case "-":
-        print ("Your number is {}".format(a-b))
+        print ("Your answer when subtracting numbers: {}".format(a-b))
     case "*":
-        print ("Your number is {}".format(a*b))
+        print ("Your answer when multiplying numbers: {}".format(a*b))
     case "/":
-        print ("Your number is {}".format(a/b))
+        print ("Your answer when dividing numbers: {}".format(a/b))
     case _:
         print ("Command doesn`t exist")
